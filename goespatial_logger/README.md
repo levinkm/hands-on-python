@@ -2,7 +2,7 @@
 
 # 🗺️ Location Logger & Distance Estimator
 
-This is a beginner-friendly Python project designed for students who have completed the CS50 Python course and are studying Geomatics or Geospatial Engineering.
+This is a beginner-friendly Python project designed for students who have completed the CS50 Python course .
 
 The project involves:
 - Logging named geographical locations with latitude and longitude
